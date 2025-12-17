@@ -4,8 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Computer+Scientist;Software+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/MwaranoKelvin?style=social)](https://github.com/MwaranoKelvin)
-[![GitHub stars](https://img.shields.io/github/stars/MwaranoKelvin?style=social)](https://github.com/MwaranoKelvin)
+</div>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/MwaranoKelvin?style=for-the-badge&logo=github)](https://github.com/MwaranoKelvin?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/MwaranoKelvin?style=for-the-badge&logo=github)](https://github.com/MwaranoKelvin)
+[![Profile Views](https://komarev.com/ghpvc/?username=MwaranoKelvin&style=for-the-badge&color=blueviolet)](https://github.com/MwaranoKelvin)
 
 </div>
 
@@ -17,7 +22,7 @@
 const kelvin = {
     location: "Nyeri, Kenya 🇰🇪",
     currentFocus: "Building innovative solutions",
-    interests: ["Web Development", "Data Structure and Algorithm", "Computer Networks", "Open Source"],
+    interests: ["Web Development", "Data Structures & Algorithms", "Computer Networks", "Open Source"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -67,64 +72,73 @@ const kelvin = {
 
 ---
 
-## GitHub Stats
+##  Real-Time GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MwaranoKelvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaranoKelvin&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MwaranoKelvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=300" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwaranoKelvin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MwaranoKelvin&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 </div>
 
 ---
 
-## Contributions
+##  Contribution Overview
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MwaranoKelvin&theme=tokyonight&utcOffset=3)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MwaranoKelvin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwaranoKelvin&theme=tokyonight)
 
-<br/>
-  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MwaranoKelvin&theme=tokyonight)
+
+</div>
+
+---
+
+## � Contribution Graph
+
+<div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/MwaranoKelvin/MwaranoKelvin/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## Activity Graph
+## �📈 Activity Timeline
 
 <div align="center">
 
-[![Kelvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MwaranoKelvin&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kelvin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MwaranoKelvin&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/MwaranoKelvin)
 
 </div>
 
 ---
 
-## Top Projects
+## ⭐ Featured Repositories
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MwaranoKelvin&repo=Final-Project&theme=tokyonight)](https://github.com/MwaranoKelvin/Final-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MwaranoKelvin&repo=PLP-Personal-Profile-Hackathon&theme=tokyonight)](https://github.com/MwaranoKelvin/PLP-Personal-Profile-Hackathon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MwaranoKelvin&repo=Final-Project&theme=tokyonight&hide_border=true)](https://github.com/MwaranoKelvin/Final-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MwaranoKelvin&repo=PLP-Personal-Profile-Hackathon&theme=tokyonight&hide_border=true)](https://github.com/MwaranoKelvin/PLP-Personal-Profile-Hackathon)
 
 </div>
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kelvinmwarano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinmwarano)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MwaranoKE?s=20)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinmwarano4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kelvinmwarano.vercel.app/)
@@ -133,7 +147,7 @@ const kelvin = {
 
 ---
 
-## 💡 Dev Quote
+## 💡 My Fav Quote
 
 <div align="center">
 
@@ -143,7 +157,7 @@ const kelvin = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Growth Mindset
 
 ```mermaid
 graph LR
@@ -161,19 +175,9 @@ graph LR
 
 <div align="center">
 
-### 🌟 Show some ❤️ by starring some of my repositories! 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=MwaranoKelvin&color=blueviolet&style=for-the-badge)
+### 🌟 Open for Collaboration & Opportunities
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</div>
-
----
-
-<div align="center">
-  
-### Open for collaboration and opportunities!
 
 *Let's build something amazing together* 
 
