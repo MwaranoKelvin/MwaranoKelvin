@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const kelvin = {
