@@ -2,7 +2,7 @@
 
 #  Hi there, I'm Kelvin Mwarano👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Computer+Scientist;Software+Engineer;Problem+Solver;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Computer+Scientist;Software+Engineer;Problem+Solver;FullStack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
